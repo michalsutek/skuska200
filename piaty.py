@@ -1,1 +1,2 @@
 print("piaty")
+print("ahoj")
