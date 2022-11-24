@@ -1,2 +1,3 @@
+meno = input("Zadaj meno")
 print("Ahoj")
-print("Svet")
+print(meno)
