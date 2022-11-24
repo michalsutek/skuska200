@@ -1,1 +1,2 @@
 print("stvrty")
+print("stvrty")

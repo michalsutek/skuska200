@@ -9,4 +9,4 @@ pero.forward(100)         # pero sa posunie o 100 bodov dopredu
 pero.dot(100, "green")    # vykreslí zelený kruh s priemerom 100 bodov
 pero.forward(-100)        # pero sa posunie o 100 bodov vzad
 
-tabula.mainloop()         # ponechá otvorené okno s grafickou plochou
+#tabula.mainloop()         # ponechá otvorené okno s grafickou plochou
